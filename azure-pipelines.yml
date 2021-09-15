@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  Test
+  Myagent:Test
 
 steps:
 - task: Maven@3
