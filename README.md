@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/EMEIA/myproject/_apis/build/status/ashokn524.SampleJavaapp%20(1)?branchName=main)](https://dev.azure.com/EMEIA/myproject/_build/latest?definitionId=3&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
